@@ -91,9 +91,9 @@ section.active {
 }
 
 .credencial img {
-  width: 100%;
+  width: 90%;
   height: 200px;
-  object-fit: cover;
+  object-fit: fill;
 }
 
 .credencial .info {
